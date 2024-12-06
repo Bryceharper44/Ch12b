@@ -13,7 +13,7 @@ body, header, nav, main, footer, img, h1, ul, section, aside, figure, figcaption
 
 /* Style rules */
 .hero{
-  background-image: linear-gradietn(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url(ch12b\images\music-notes.png)
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url(ch12b\images\music-notes.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
